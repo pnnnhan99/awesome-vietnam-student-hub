@@ -1,0 +1,12 @@
+{
+  "name": "awesome-vietnam-student-hub",
+  "version": "1.0.0",
+  "description": "Trạm tri thức & Kho đặc quyền dành cho Học sinh - Sinh viên Việt Nam",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-readme.js",
+    "start": "node scripts/build-readme.js"
+  },
+  "keywords": ["education", "student", "vietnam", ".edu.vn", "resources"],
+  "license": "MIT"
+}

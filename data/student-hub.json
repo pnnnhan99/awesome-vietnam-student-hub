@@ -1,0 +1,13 @@
+[
+  { "name": "GitHub Student Developer Pack", "url": "https://education.github.com/pack", "category": "Đặc quyền Email .edu.vn (Sinh viên)", "benefit": "Miễn phí GitHub Copilot, tên miền Namecheap, DigitalOcean credits và hàng chục tool xịn xò khác.", "requireEduEmail": "Có 🎓" },
+  { "name": "Notion Plus for Education", "url": "https://www.notion.so/students", "category": "Đặc quyền Email .edu.vn (Sinh viên)", "benefit": "Nâng cấp miễn phí lên gói Plus, không giới hạn block và upload file, cực tốt để quản lý học tập.", "requireEduEmail": "Có 🎓" },
+  { "name": "JetBrains Free Educational Licenses", "url": "https://www.jetbrains.com/community/education/", "category": "Đặc quyền Email .edu.vn (Sinh viên)", "benefit": "Miễn phí toàn bộ các IDE xịn nhất cho Coder (IntelliJ IDEA, PyCharm, WebStorm, CLion...).", "requireEduEmail": "Có 🎓" },
+  { "name": "Canva for Education", "url": "https://www.canva.com/education/", "category": "Đặc quyền Email .edu.vn (Sinh viên)", "benefit": "Sử dụng đầy đủ tính năng của Canva Pro để làm slide thuyết trình, thiết kế CV.", "requireEduEmail": "Có 🎓" },
+  { "name": "Figma for Education", "url": "https://www.figma.com/education/", "category": "Đặc quyền Email .edu.vn (Sinh viên)", "benefit": "Miễn phí gói Professional cho sinh viên thiết kế UI/UX.", "requireEduEmail": "Có 🎓" },
+
+  { "name": "API Danh sách Trường Đại học Việt Nam", "url": "https://github.com/itvn-dev/vietnam-universities", "category": "API & Dữ liệu mở Giáo dục", "benefit": "JSON data danh sách đầy đủ mã trường, tên trường Đại học/Cao đẳng dùng làm data cho form đăng ký.", "requireEduEmail": "Không 🔓" },
+  { "name": "Thư viện Đề thi THPT Quốc Gia", "url": "https://thithu.edu.vn/", "category": "API & Dữ liệu mở Giáo dục", "benefit": "Nguồn tham khảo đề thi trắc nghiệm, cấu trúc môn thi cho học sinh cấp 3.", "requireEduEmail": "Không 🔓" },
+
+  { "name": "VNOI - Vietnam Olympiad in Informatics", "url": "https://vnoi.info/", "category": "Nền tảng Học tập & Thi cử", "benefit": "Cộng đồng thi lập trình thi đấu (Competitive Programming) lớn nhất Việt Nam cho học sinh chuyên Tin.", "requireEduEmail": "Không 🔓" },
+  { "name": "Coursera cho Sinh viên", "url": "https://www.coursera.org/for-university-and-college-students", "category": "Nền tảng Học tập & Thi cử", "benefit": "Truy cập miễn phí một khóa học mỗi năm và nhiều dự án có hướng dẫn thực tế.", "requireEduEmail": "Có 🎓" }
+]
