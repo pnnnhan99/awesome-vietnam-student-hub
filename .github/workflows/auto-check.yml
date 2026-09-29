@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit changes if README updated
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "nnhann99@gmail.com"
           git add README.md
           git diff --cached --quiet && echo "No changes" || (git commit -m "Auto-update: Check links and regenerate README" && git push)
