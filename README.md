@@ -1,7 +1,7 @@
 # 🎓 Awesome Vietnam Student Hub
 
 [![Total Resources](https://img.shields.io/badge/Total%20Resources-9-blue)](https://github.com/itvn-dev/awesome-vietnam-student-hub)
-[![Active Links](https://img.shields.io/badge/Active%20Links-6-green)](https://github.com/itvn-dev/awesome-vietnam-student-hub)
+[![Active Links](https://img.shields.io/badge/Active%20Links-7-green)](https://github.com/itvn-dev/awesome-vietnam-student-hub)
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Every%20Night-%23FFA500)](https://github.com/itvn-dev/awesome-vietnam-student-hub/actions)
 
 🎓 Trạm tri thức & Kho đặc quyền dành cho Học sinh - Sinh viên Việt Nam. Tổng hợp các mẹo tối ưu hóa email `.edu.vn` để nhận phần mềm miễn phí trị giá hàng ngàn đô, cùng với các kho dữ liệu mở hỗ trợ làm đồ án xuất sắc. Liên tục tự động kiểm tra link sống/chết mỗi đêm!
@@ -12,7 +12,7 @@
 
 | Tên Tài nguyên / Nền tảng (Gắn link) | Lợi ích mang lại | Yêu cầu Mail .edu.vn? | Trạng thái web |
 |---|---|---|---|
-| [GitHub Student Developer Pack](https://education.github.com/pack) | Miễn phí GitHub Copilot, tên miền Namecheap, DigitalOcean credits và hàng chục tool xịn xò khác. | Có 🎓 | 🔴 Không phản hồi |
+| [GitHub Student Developer Pack](https://education.github.com/pack) | Miễn phí GitHub Copilot, tên miền Namecheap, DigitalOcean credits và hàng chục tool xịn xò khác. | Có 🎓 | 🟢 Hoạt động |
 | [Notion Plus for Education](https://www.notion.so/students) | Nâng cấp miễn phí lên gói Plus, không giới hạn block và upload file, cực tốt để quản lý học tập. | Có 🎓 | 🟢 Hoạt động |
 | [JetBrains Free Educational Licenses](https://www.jetbrains.com/community/education/) | Miễn phí toàn bộ các IDE xịn nhất cho Coder (IntelliJ IDEA, PyCharm, WebStorm, CLion...). | Có 🎓 | 🟢 Hoạt động |
 | [Canva for Education](https://www.canva.com/education/) | Sử dụng đầy đủ tính năng của Canva Pro để làm slide thuyết trình, thiết kế CV. | Có 🎓 | 🟢 Hoạt động |
